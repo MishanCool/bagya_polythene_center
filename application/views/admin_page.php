@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Admin</title>
 
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/sign_page.css')?> " >
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/admin_page.css')?> " >
 
 	<STYLE>A {text-decoration: none;} </STYLE><!--Remove the Underline from All Hyperlinks-->
 
@@ -19,7 +19,7 @@
 
 		<ul>
 			
-			<li><a href="Polythene_controller/index">HOME</a></li>
+			<li><a href="index">HOME</a></li>
 			<li><a href="register">REGISTER</a></li>
 			<li><a href="shop_item">SHOP ITEMS</a></li>
 			<li><a href="location">SHOPS LOCATIONS</a></li>
